@@ -1,0 +1,27 @@
+﻿@model List<Reserva>
+
+<h2>Reservas</h2>
+<p>
+    <a asp-action="Create" class="btn btn-primary">Nova Reserva</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Cliente</th>
+                <th>Contato</th>
+                <th>Quantidade de pessoas</th>
+                <th>Data da reserva</th>
+                <th>Status</th>        
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Cliente?.Nome</td>
+                    <td>@item.QuantidadePessoas</td>
+                    <td>@item.DataReserva.ToLocalTime()</td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
