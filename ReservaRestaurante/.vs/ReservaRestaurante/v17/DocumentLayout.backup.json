@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\impacta\\aspNet\\SAulaDezenove\\ReservaRestaurante\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3333291-B9ED-4F53-8310-3D8D75BBA0F7}|ReservaRestaurante\\ReservaRestaurante.csproj|d:\\impacta\\aspnet\\sauladezenove\\reservarestaurante\\reservarestaurante\\views\\reserva\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3333291-B9ED-4F53-8310-3D8D75BBA0F7}|ReservaRestaurante\\ReservaRestaurante.csproj|solutionrelative:reservarestaurante\\views\\reserva\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3333291-B9ED-4F53-8310-3D8D75BBA0F7}|ReservaRestaurante\\ReservaRestaurante.csproj|d:\\impacta\\aspnet\\sauladezenove\\reservarestaurante\\reservarestaurante\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3333291-B9ED-4F53-8310-3D8D75BBA0F7}|ReservaRestaurante\\ReservaRestaurante.csproj|solutionrelative:reservarestaurante\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3333291-B9ED-4F53-8310-3D8D75BBA0F7}|ReservaRestaurante\\ReservaRestaurante.csproj|d:\\impacta\\aspnet\\sauladezenove\\reservarestaurante\\reservarestaurante\\views\\reserva\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3333291-B9ED-4F53-8310-3D8D75BBA0F7}|ReservaRestaurante\\ReservaRestaurante.csproj|solutionrelative:reservarestaurante\\views\\reserva\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3333291-B9ED-4F53-8310-3D8D75BBA0F7}|ReservaRestaurante\\ReservaRestaurante.csproj|d:\\impacta\\aspnet\\sauladezenove\\reservarestaurante\\reservarestaurante\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3333291-B9ED-4F53-8310-3D8D75BBA0F7}|ReservaRestaurante\\ReservaRestaurante.csproj|solutionrelative:reservarestaurante\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3333291-B9ED-4F53-8310-3D8D75BBA0F7}|ReservaRestaurante\\ReservaRestaurante.csproj|d:\\impacta\\aspnet\\sauladezenove\\reservarestaurante\\reservarestaurante\\views\\reserva\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3333291-B9ED-4F53-8310-3D8D75BBA0F7}|ReservaRestaurante\\ReservaRestaurante.csproj|solutionrelative:reservarestaurante\\views\\reserva\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B3333291-B9ED-4F53-8310-3D8D75BBA0F7}|ReservaRestaurante\\ReservaRestaurante.csproj|d:\\impacta\\aspnet\\sauladezenove\\reservarestaurante\\reservarestaurante\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3333291-B9ED-4F53-8310-3D8D75BBA0F7}|ReservaRestaurante\\ReservaRestaurante.csproj|solutionrelative:reservarestaurante\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3333291-B9ED-4F53-8310-3D8D75BBA0F7}|ReservaRestaurante\\ReservaRestaurante.csproj|d:\\impacta\\aspnet\\sauladezenove\\reservarestaurante\\reservarestaurante\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3333291-B9ED-4F53-8310-3D8D75BBA0F7}|ReservaRestaurante\\ReservaRestaurante.csproj|solutionrelative:reservarestaurante\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3333291-B9ED-4F53-8310-3D8D75BBA0F7}|ReservaRestaurante\\ReservaRestaurante.csproj|d:\\impacta\\aspnet\\sauladezenove\\reservarestaurante\\reservarestaurante\\views\\reserva\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3333291-B9ED-4F53-8310-3D8D75BBA0F7}|ReservaRestaurante\\ReservaRestaurante.csproj|solutionrelative:reservarestaurante\\views\\reserva\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3333291-B9ED-4F53-8310-3D8D75BBA0F7}|ReservaRestaurante\\ReservaRestaurante.csproj|d:\\impacta\\aspnet\\sauladezenove\\reservarestaurante\\reservarestaurante\\views\\reserva\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3333291-B9ED-4F53-8310-3D8D75BBA0F7}|ReservaRestaurante\\ReservaRestaurante.csproj|solutionrelative:reservarestaurante\\views\\reserva\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,52 +42,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "D:\\impacta\\aspNet\\SAulaDezenove\\ReservaRestaurante\\ReservaRestaurante\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "ReservaRestaurante\\Controllers\\ClienteController.cs",
+              "ToolTip": "D:\\impacta\\aspNet\\SAulaDezenove\\ReservaRestaurante\\ReservaRestaurante\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "ReservaRestaurante\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:11:30.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Reserva.cs",
               "DocumentMoniker": "D:\\impacta\\aspNet\\SAulaDezenove\\ReservaRestaurante\\ReservaRestaurante\\Models\\Reserva.cs",
               "RelativeDocumentMoniker": "ReservaRestaurante\\Models\\Reserva.cs",
               "ToolTip": "D:\\impacta\\aspNet\\SAulaDezenove\\ReservaRestaurante\\ReservaRestaurante\\Models\\Reserva.cs",
               "RelativeToolTip": "ReservaRestaurante\\Models\\Reserva.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T03:05:49.122Z",
+              "WhenOpened": "2025-06-25T04:08:05.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\impacta\\aspNet\\SAulaDezenove\\ReservaRestaurante\\ReservaRestaurante\\Views\\Reserva\\Index.cshtml",
+              "RelativeDocumentMoniker": "ReservaRestaurante\\Views\\Reserva\\Index.cshtml",
+              "ToolTip": "D:\\impacta\\aspNet\\SAulaDezenove\\ReservaRestaurante\\ReservaRestaurante\\Views\\Reserva\\Index.cshtml*",
+              "RelativeToolTip": "ReservaRestaurante\\Views\\Reserva\\Index.cshtml*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T04:03:49.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\impacta\\aspNet\\SAulaDezenove\\ReservaRestaurante\\ReservaRestaurante\\Views\\Reserva\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ReservaRestaurante\\Views\\Reserva\\Edit.cshtml",
+              "ToolTip": "D:\\impacta\\aspNet\\SAulaDezenove\\ReservaRestaurante\\ReservaRestaurante\\Views\\Reserva\\Edit.cshtml",
+              "RelativeToolTip": "ReservaRestaurante\\Views\\Reserva\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T03:40:54.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ReservaController.cs",
               "DocumentMoniker": "D:\\impacta\\aspNet\\SAulaDezenove\\ReservaRestaurante\\ReservaRestaurante\\Controllers\\ReservaController.cs",
               "RelativeDocumentMoniker": "ReservaRestaurante\\Controllers\\ReservaController.cs",
               "ToolTip": "D:\\impacta\\aspNet\\SAulaDezenove\\ReservaRestaurante\\ReservaRestaurante\\Controllers\\ReservaController.cs",
               "RelativeToolTip": "ReservaRestaurante\\Controllers\\ReservaController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwEQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T01:15:45.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\impacta\\aspNet\\SAulaDezenove\\ReservaRestaurante\\ReservaRestaurante\\Views\\Reserva\\Index.cshtml",
-              "RelativeDocumentMoniker": "ReservaRestaurante\\Views\\Reserva\\Index.cshtml",
-              "ToolTip": "D:\\impacta\\aspNet\\SAulaDezenove\\ReservaRestaurante\\ReservaRestaurante\\Views\\Reserva\\Index.cshtml",
-              "RelativeToolTip": "ReservaRestaurante\\Views\\Reserva\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T01:15:28.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\impacta\\aspNet\\SAulaDezenove\\ReservaRestaurante\\ReservaRestaurante\\Views\\Reserva\\Create.cshtml",
               "RelativeDocumentMoniker": "ReservaRestaurante\\Views\\Reserva\\Create.cshtml",
               "ToolTip": "D:\\impacta\\aspNet\\SAulaDezenove\\ReservaRestaurante\\ReservaRestaurante\\Views\\Reserva\\Create.cshtml",
               "RelativeToolTip": "ReservaRestaurante\\Views\\Reserva\\Create.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAIwCYAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-25T01:14:47.585Z",
               "EditorCaption": ""

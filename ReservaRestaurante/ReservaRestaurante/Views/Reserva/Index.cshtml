@@ -10,7 +10,8 @@
                 <th>Contato</th>
                 <th>Quantidade de pessoas</th>
                 <th>Data da reserva</th>
-                <th>Status</th>        
+                <th>Hora da reserva</th>
+                <!--     <th>Status</th>     -->
             </tr>
         </thead>
         <tbody>
@@ -18,8 +19,10 @@
             {
                 <tr>
                     <td>@item.Cliente?.Nome</td>
+                    <td>@item.Cliente?.Telefone</td>
                     <td>@item.QuantidadePessoas</td>
                     <td>@item.DataReserva.ToLocalTime()</td>
+                    <td>@item.DataReserva.Hour</td>
 
                 </tr>
             }

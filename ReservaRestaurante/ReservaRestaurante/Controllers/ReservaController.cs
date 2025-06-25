@@ -1,12 +1,12 @@
 ﻿using Microsoft.AspNetCore.Mvc;//
 using Microsoft.AspNetCore.Mvc.Rendering;//
 using Microsoft.EntityFrameworkCore;//
+using Microsoft.Identity.Client;
 using ReservaRestaurante.Data;//
+using ReservaRestaurante.Migrations;
+using ReservaRestaurante.Models;
 using System;
 using System.Runtime.ConstrainedExecution;
-
-using ReservaRestaurante.Models;
-using Microsoft.Identity.Client;
 
 
 
@@ -21,8 +21,10 @@ public class ReservaController : Controller
     }
     public IActionResult Index()
     {
-        var lista = _db.Reservas.Include(l => l.Cliente).ToList();
-        return View(lista);
+        var reservaList = _db.Reservas.ToList();
+        return View(reservaList);
+        //var lista = _db.Reservas.Include(l => l.Cliente).ToList();
+        //return View(lista);
     }
     public IActionResult Create()
     {
@@ -47,27 +49,26 @@ public class ReservaController : Controller
                 Value = r.IdReserva.ToString(), 
                 Text = r.QuantidadePessoas})
             .ToList();
-
-        
-        
-        
         
         return View();
-
-       
-        
-
-
     }
 
+    [HttpPost]
+    public IActionResult Create(Reserva reserva)
+    {
+        if (ModelState.IsValid)
+        {
+            
+            _db.Reservas.Add(reserva);
+            _db.SaveChanges();
+            return RedirectToAction("Index");
+        }
 
+        //ViewBag.Reservas = new SelectList(_db.Reservas, "Id", "Nome", reserva.IdReserva);
+        
+        return View(reserva);
+    }
 
 
 }
 
-
-/*Criar um pequeno sistema de reservas de mesas.Deve ser informado  a
- quantidade de pessoas e horas da reserva 
-
-no index deve ser listadas todas as reservas e horário de inicio e termino
-*/

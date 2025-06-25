@@ -12,10 +12,6 @@ public class Reserva
     [Required]
     public string QuantidadePessoas { get; set; }
     [Required]
-    public DateTime DataReserva { get; set; }
-    /*
-    [Required]
-    [DataType(DataType.Time)]
-    public DateTime HoraReserva { get; set; }*/
-
+    public DateTime DataReserva { get; set; }  
+   
 }
